@@ -29,5 +29,6 @@ variable "instance_count" {
 }
 
 #test방법
+'''
 aws에서 instance 정보 확인
 '''
